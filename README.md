@@ -37,7 +37,7 @@ ID code of the town, name of the town, registered voters, voting envelopes distr
 
 In case of "Zahraničí" the csv file contains this information on every city abroad Czech repubilc where voting in these elctions were possible:
 name of the town, registered voters, voting envelopes distributed, valid votes, and a numer of votes for every party registered in the elections.
-
+You can se how the output looks in the Příbram.csv file.
 
 
 
