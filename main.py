@@ -202,6 +202,6 @@ elif sys.argv[1] == "Zahraničí":
     scrap_zahranici (sys.argv[2])
     print ("Done!")
 else:
-    (f"Scraping election data for {sys.argv[1]} and saving them into {sys.argv[2]}...")
+    print (f"Scraping election data for {sys.argv[1]} and saving them into {sys.argv[2]}...")
     scrap_elections (sys.argv[1], sys.argv[2])
     print ("Done!")
